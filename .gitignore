@@ -3,4 +3,5 @@
 .DS_Store
 */.secret/*
 *.secret
-*/media/
+*/media/*
+/media/*
